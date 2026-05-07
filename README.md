@@ -1,10 +1,20 @@
 # Business Intelligence Repository
 
-This repository contains various projects related to Business Intelligence including:
+Welcome to my Business Intelligence portfolio! This repository showcases a collection of sample dashboards and analytics projects demonstrating various BI techniques and tools.
 
-## Power Pivot Analysis
-- This folder contains in-depth analysis using Microsoft Power Pivot, showcasing various data models and analytics.
+## 📊 Dashboards & Projects
 
-## Public Health Analytics Mini Project
-- This folder includes a mini project focused on public health analytics, demonstrating the application of data analysis techniques in the public health sector.
+### Power Pivot Analysis
+In-depth analysis using Microsoft Power Pivot, showcasing various data models and analytics.
 
+### Public Health Analytics Mini Project
+A mini project focused on public health analytics, demonstrating the application of data analysis techniques in the public health sector.
+
+### Budget & Payroll Analytics
+Comprehensive dashboard for budget planning and payroll analysis with key financial metrics.
+
+### Headcount & Turnover Analytics
+HR analytics dashboard tracking headcount trends and employee turnover metrics.
+
+### QuickMart Case Study
+Complete case study analysis for QuickMart retail business with sales, inventory, and performance insights.
